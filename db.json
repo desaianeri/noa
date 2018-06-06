@@ -1,4 +1,4 @@
- [
+{
 {
   "application" : "app-1",
   "status" : "onboard"
@@ -18,5 +18,5 @@
   "application" : "app-4",
   "status" : "onboard"
 }
-]
+}
 
