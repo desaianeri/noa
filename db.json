@@ -1,5 +1,4 @@
-{
-  "profiles" : [
+ [
 {
   "application" : "app-1",
   "status" : "onboard"
@@ -20,4 +19,4 @@
   "status" : "onboard"
 }
 ]
-}
+
