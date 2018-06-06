@@ -1,0 +1,23 @@
+{
+  "profiles" : [
+{
+  "application" : "app-1",
+  "status" : "onboard"
+},
+
+{
+  "application" : "app-2",
+  "status" : "Not Started"
+},
+
+{
+  "application" : "app-3",
+  "status" : "onboard"
+},
+
+{
+  "application" : "app-4",
+  "status" : "onboard"
+},
+]
+}
